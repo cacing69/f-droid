@@ -216,6 +216,32 @@
 
     .steps li strong { color: var(--text); }
 
+    /* -- fdroid logo -- */
+
+    .fdroid-logo {
+      display: block;
+      margin-top: 20px;
+      opacity: 0.5;
+    }
+
+    /* -- footer -- */
+
+    .footer {
+      margin-top: 48px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .footer svg {
+      flex-shrink: 0;
+      opacity: 0.5;
+    }
+
     @media (max-width: 480px) {
       .container { padding: 32px 16px; }
       .url-row { flex-direction: column; }
@@ -263,12 +289,19 @@
       <code>8DB384FF37887528A99440A47A5AFFC0315CBBEABBD9990509F5F2CB2307601A</code>
     </div>
 
+    <img class="fdroid-logo" src="fdroid.svg" alt="F-Droid" />
+
     <div class="section-label">How to add</div>
     <ol class="steps">
       <li>Open <strong>F-Droid</strong> &rarr; Settings &rarr; Repositories</li>
       <li>Scan QR or tap <strong>+</strong> and paste the URL</li>
       <li>Save &mdash; F-Droid will fetch the index</li>
     </ol>
+
+    <div class="footer">
+      cacing69 &bull; github pages
+    </div>
+
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js"></script>
