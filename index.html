@@ -216,30 +216,28 @@
 
     .steps li strong { color: var(--text); }
 
-    /* -- fdroid logo -- */
+    /* -- fdroid banner -- */
 
-    .fdroid-logo {
-      display: block;
-      margin-top: 20px;
-      opacity: 0.5;
+    .fdroid-banner {
+      background: #c9d1d9;
+      display: flex;
+      justify-content: center;
+      padding: 10px 24px;
+    }
+
+    .fdroid-banner img {
+      height: 36px;
+      width: auto;
     }
 
     /* -- footer -- */
 
     .footer {
       margin-top: 48px;
-      display: flex;
-      align-items: center;
-      gap: 12px;
       color: var(--muted);
       font-size: 11px;
       text-transform: uppercase;
       letter-spacing: 1px;
-    }
-
-    .footer svg {
-      flex-shrink: 0;
-      opacity: 0.5;
     }
 
     @media (max-width: 480px) {
@@ -257,6 +255,9 @@
 </head>
 
 <body>
+  <div class="fdroid-banner">
+    <img class="fdroid-logo" src="fdroid.svg" alt="F-Droid" />
+  </div>
   <div class="container">
 
     <div class="url-section">
@@ -288,8 +289,6 @@
       <div class="label">Fingerprint</div>
       <code>8DB384FF37887528A99440A47A5AFFC0315CBBEABBD9990509F5F2CB2307601A</code>
     </div>
-
-    <img class="fdroid-logo" src="fdroid.svg" alt="F-Droid" />
 
     <div class="section-label">How to add</div>
     <ol class="steps">
