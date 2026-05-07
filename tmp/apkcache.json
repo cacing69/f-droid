@@ -2,7 +2,7 @@
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
   "dev.cacing69.curel-arm64-v8a.apk": {
-    "hash": "4c07aecf5923c4492a03344b1e54837b27013fdb8a6f71b82d51cf592e3d41a9",
+    "hash": "412c0866535f86d2a32ad76737f7bc2c5872296d917c4b49940a12fb09bfe035",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -20,9 +20,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "dev.cacing69.curel",
-    "versionCode": 12007,
+    "versionCode": 12008,
     "name": "Curel",
-    "versionName": "1.0.7",
+    "versionName": "1.0.8",
     "minSdkVersion": 24,
     "targetSdkVersion": 36,
     "nativecode": [
@@ -32,10 +32,10 @@
     "signer": "251b142020e72938df647f22a373b93d9240ba3cbcd232f86772ad9007564a44",
     "size": 20833966,
     "apkName": "dev.cacing69.curel-arm64-v8a.apk",
-    "added": 1778159907.947508
+    "added": 1778160066.653647
   },
   "dev.cacing69.curel-armeabi-v7a.apk": {
-    "hash": "399bf4fb04fe6cfaf71476c2c0dcfe2825c01ee50f786530170ccd0093e26dc2",
+    "hash": "8dfcdeeb929d2711bdcadd303cf3ac1637ec300aba1e6dd2d6e8383fd82465a2",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -53,9 +53,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "dev.cacing69.curel",
-    "versionCode": 11007,
+    "versionCode": 11008,
     "name": "Curel",
-    "versionName": "1.0.7",
+    "versionName": "1.0.8",
     "minSdkVersion": 24,
     "targetSdkVersion": 36,
     "nativecode": [
@@ -63,12 +63,12 @@
     ],
     "sig": "4de904f847a9c4421e0a4af61334925b",
     "signer": "251b142020e72938df647f22a373b93d9240ba3cbcd232f86772ad9007564a44",
-    "size": 18497240,
+    "size": 18497236,
     "apkName": "dev.cacing69.curel-armeabi-v7a.apk",
-    "added": 1778159908.288258
+    "added": 1778160067.063815
   },
   "dev.cacing69.curel-x86_64.apk": {
-    "hash": "9aaf73d243b4f496ce6a9da6df981bd02de17e5adc13cf0ba14fd91977495a34",
+    "hash": "08a50c8749558ef61f94d23c9925f70cbda2b6386fa139862f6cdef9854845e9",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -86,9 +86,9 @@
     "icons": {},
     "antiFeatures": {},
     "packageName": "dev.cacing69.curel",
-    "versionCode": 14007,
+    "versionCode": 14008,
     "name": "Curel",
-    "versionName": "1.0.7",
+    "versionName": "1.0.8",
     "minSdkVersion": 24,
     "targetSdkVersion": 36,
     "nativecode": [
@@ -98,6 +98,6 @@
     "signer": "251b142020e72938df647f22a373b93d9240ba3cbcd232f86772ad9007564a44",
     "size": 22211845,
     "apkName": "dev.cacing69.curel-x86_64.apk",
-    "added": 1778159908.621505
+    "added": 1778160067.432291
   }
 }
