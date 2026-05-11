@@ -32,7 +32,7 @@
     "signer": "251b142020e72938df647f22a373b93d9240ba3cbcd232f86772ad9007564a44",
     "size": 23447090,
     "apkName": "dev.cacing69.curel-arm64-v8a.apk",
-    "added": 1778474031.02235
+    "added": 1778474137.604278
   },
   "dev.cacing69.curel-armeabi-v7a.apk": {
     "hash": "14fdc49731582efc4af76a4e7919939b241f027d6c2048c88d33d883fa8c03c0",
@@ -65,7 +65,7 @@
     "signer": "251b142020e72938df647f22a373b93d9240ba3cbcd232f86772ad9007564a44",
     "size": 20991296,
     "apkName": "dev.cacing69.curel-armeabi-v7a.apk",
-    "added": 1778474031.353324
+    "added": 1778474137.937263
   },
   "dev.cacing69.curel-x86_64.apk": {
     "hash": "4d41b3ab9b422d474e65684f040d48b5e9cfeab162c350f84ce8c1986f0da53d",
@@ -98,6 +98,6 @@
     "signer": "251b142020e72938df647f22a373b93d9240ba3cbcd232f86772ad9007564a44",
     "size": 25004899,
     "apkName": "dev.cacing69.curel-x86_64.apk",
-    "added": 1778474031.67953
+    "added": 1778474138.304713
   }
 }
